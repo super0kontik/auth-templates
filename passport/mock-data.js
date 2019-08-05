@@ -1,0 +1,12 @@
+module.exports=[
+    {
+        id:2,
+        email:'sobaka@psina.com',
+        password:'epta'
+    },
+    {
+        id:3,
+        email:'js@super.com',
+        password:'nodejs'
+    }
+];
